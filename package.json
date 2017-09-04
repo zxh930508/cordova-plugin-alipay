@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/albenyuan/cordova-plugin-alipay.git"
+    "url": "https://github.com/zxh930508/cordova-plugin-alipay.git"
   },
   "keywords": [
     "alipay",
@@ -30,10 +30,10 @@
       "version": ">=4.2.0"
     }
   ],
-  "author": "Alben Yuan",
+  "author": "zxh930508",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/albenyuan/cordova-plugin-alipay"
+    "url": "https://github.com/zxh930508/cordova-plugin-alipay"
   },
-  "homepage": "https://github.com/albenyuan/cordova-plugin-alipay"
+  "homepage": "https://github.com/zxh930508/cordova-plugin-alipay"
 }
