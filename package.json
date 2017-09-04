@@ -1,0 +1,39 @@
+{
+  "name": "cordova-plugin-alipay",
+  "version": "0.0.1",
+  "description": "cordova plugin of alipay SDK",
+  "cordova": {
+    "id": "cordova-plugin-alipay",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albenyuan/cordova-plugin-alipay.git"
+  },
+  "keywords": [
+    "alipay",
+    "cordova",
+    "alebnyuan",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.2.0"
+    }
+  ],
+  "author": "Alben Yuan",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/albenyuan/cordova-plugin-alipay"
+  },
+  "homepage": "https://github.com/albenyuan/cordova-plugin-alipay"
+}
