@@ -36,7 +36,7 @@
             <!-- alipay sdk end -->
         </config-file>
         <source-file src="src/android/libs/alipaySdk-20170309.jar" target-dir="libs"/>
-        <source-file src="src/android/AliPay.java" target-dir="src/com/heytz/cordova/alipay"/>
+        <source-file src="src/android/Alipay.java" target-dir="src/com/heytz/cordova/alipay"/>
         <source-file src="src/android/PayResult.java" target-dir="src/com/heytz/cordova/alipay"/>
     </platform>
     <!--END OF ANDROID -->
